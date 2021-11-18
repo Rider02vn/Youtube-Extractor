@@ -22,7 +22,7 @@ If used via gradle implementation, usage will look like this:<br/>
 ![Video info](https://i.imgur.com/Gkcp2IO.png)
 <br/>
 <br/>
-**format API result:**
+**format API result (PHP):**
 <br/>
 <br/>
 ![PHP code](https://i.imgur.com/fNZygFv.png)
