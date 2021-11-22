@@ -1,8 +1,8 @@
 # Android (kotlin/Java) or PHP based YouTube url extractor
 This library partially relies on the [youtubeExtractor ](https://github.com/HaarigerHarald/android-youtubeExtractor) library for continued development.<br/>
-Get all youtube video link and video info unlimit bandwidth both Android (java/kotlin) or php
+Get all youtube video link and video info unlimit bandwidth both **Android (java/kotlin), iOS (Swift) or Web (PHP)**
 <br/><br/>
-**If you wants it, please contact to me:**<br/>
+**If you are interested, please contact to me:**<br/>
 **Mail:** rider02vn@gmail.com
 
 <br/>ac
@@ -38,4 +38,4 @@ If used via gradle implementation, usage will look like this:<br/>
 <br/>
 <br/>
 
-**Tag: Android, Kotlin, Java, PHP, web, mobile, Youtube, Extractor, Get Link Video**
+**Tag: Android, Kotlin, Java, Swift, iOS, PHP, web, mobile, Youtube, Extractor, Get Link Video**
