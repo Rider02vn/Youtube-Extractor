@@ -3,7 +3,8 @@ This library partially relies on the [youtubeExtractor ](https://github.com/Haar
 Get all youtube video link and video info unlimit bandwidth both **Android (java/kotlin), iOS (Swift) or Web (PHP)**
 <br/><br/>
 **If you are interested, please contact to me:**<br/>
-**Mail:** rider02vn@gmail.com
+**Mail:** rider02vn@gmail.com <br/>
+**Skype:** [Click here](https://join.skype.com/invite/b1NHI8Dv1zrz)
 
 <br/>ac
 You can easy implement into your project via gradle or embed direct code.<br/>
